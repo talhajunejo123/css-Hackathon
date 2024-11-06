@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+    display: flex;
+}
+.header{
+    background-color: rgb(255, 255, 73);
+    border: 2px solid  rgb(255, 255, 83);
+    position: fixed;
+    top: 20px;
+    width: 600px;
+    left: 200px;
+    border-radius: 10px;
+}
+.Mission{
+    color: black;
+    position: fixed;
+    left: 350px;
+    top: 42px;
+}
+.Benefits{
+    color: black;
+    position: fixed;
+    left: 420px;
+    top: 43px;
+}
+.Process{
+    color: black;
+    position: fixed;
+    left: 490px;
+    top: 44px;
+}
+.Testimonials{
+    color: black;
+    position: fixed;
+    left: 550px;
+    top: 45px;
+}
+.ApplyToday{
+    position: fixed;
+    left: 680px;
+    top: 39px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+.HARBOUR{
+    position: fixed;
+    top: 40px;
+    margin-left: 20px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+.head{
+    border: 2px solid transparent;
+    position: absolute;
+    margin-left: 230px;
+    margin-top: 150px;
+    height: 400px;
+    width: 500px;
+}
+.head h1{
+    position: relative;
+    font-size: 70px;
+    text-align: center;
+}
+.head p{
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+}
+.head button{
+    position: relative;
+    padding: 20px;
+    margin-left: 190px;
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+}
+.Box{
+    position: absolute;
+}
+
+.Box img{
+    width: 100%;
+    margin-top: 600px;
+    margin-left: 5px;
+}
+.images{
+    position: absolute;
+    border: 2px solid transparent;
+    top: 1100px;
+    font-size: 25px;
+    left: 200px;
+    height: 200px;
+    width: 660px;
+}
+.images h1{
+    text-align: center;
+}
+.images p{
+    text-align: center;
+}
+.items{
+    border: 2px solid transparent;
+    position: absolute;
+    top: 1500px;
+    left: 20px;
+    border-radius: 20px;
+    height: 400px;
+    background-color: rgb(24, 161, 161);
+}
+.items img{
+    width: 500px;
+}
+.items h1{
+    position: absolute;
+    left: 20px;
+    border: 2px solid transparent;
+    width: 300px;
+}
+.items h2{
+    border: 2px solid transparent;
+    position: absolute;
+    width: 450px;
+    top: 300px;
+    left: 20px;
+}
+.items1{
+    border-radius: 20px;
+    border: 2px solid transparent;
+    position: absolute;
+    top: 1500px;
+    left: 700px;
+    width: 400px;
+    height: 400px;
+    background-color: yellow;
+}
+.items1 img{
+    position: absolute;
+    width: 400px;
+}
